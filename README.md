@@ -1,22 +1,28 @@
-### 🐾 Have fun and feel free to reach out on twitter 🐾 
+### 🐾  Have fun and feel free to reach out on twitter 🐾 
 
 
 🦦**At work, I have/still  mainly focused on**:
 
-- **machine learning** at scale & low dataset machine learning systems, **anomaly detection** and, its application to security .
+- **Machine Learning** at scale & low dataset machine learning systems, **anomaly detection** and, its application to security .
 - **Approximate algorithms** to deal with data at scale
 - **information retrieval** problems related to **computer vision retrieval systems at scale** & **similarity retrieval systems** 
 - **Cheat detection and development** 
 
-🦥 **I am open to**:
+🦥  **I am open to**:
 
 - Collaboration opportunities (**anytime** & **anywhere**)
 - Anything interesting you wanna reach out about
 - Cool **hardware** projects!
-- Music production **collabs** (includes VST development)
+- Music production **collabs** (includes **VST** development)
+- An informal chat or a drink 🍻🍶☕
 
+🐣  **Increasingly interested in**:
+- **Graph Neural Networks**
+- **FPGAs**
+- Optimising **compilers** 
+- Columnar/full text & graph database **internals**
 
-🐌  **Contact me by**:
+🐌   **Contact me by**:
 - Email (andres.datasloth [AT] gmail.com)
 - [Twitter](https://twitter.com/serialdev)
 
