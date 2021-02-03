@@ -1,4 +1,4 @@
-### 🦦 Have fun and feel free to reach out on twitter 🦦
+### 🐾 Have fun and feel free to reach out on twitter 🐾 
 
 
 🦦**At work, I have/still  mainly focused on**:
