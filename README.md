@@ -20,7 +20,7 @@
 - **Graph Neural Networks**
 - **FPGAs**
 - Optimising **compilers** 
-- Columnar/full text & graph database **internals**
+- Columnar, full text & graph  **database internals**
 
 🐌   **Contact me by**:
 - Email (andres.datasloth [AT] gmail.com)
