@@ -1,4 +1,4 @@
-### 🐾  Have fun and feel free to reach out on twitter 🐾 
+### 🐾  Have fun and feel free to reach out 🐾 
 
 
 🦦**At work, I have/still  mainly focused on**:
@@ -8,7 +8,7 @@
 - **information retrieval** problems related to **computer vision retrieval systems at scale** & **similarity retrieval systems** 
 - **Cheat detection and development** 
 
-🦥  **I am open to**:
+🦥  **I am open**:
 
 - Collaboration opportunities (**anytime** & **anywhere**)
 - Anything interesting you wanna reach out about
@@ -17,10 +17,19 @@
 - An informal chat or a drink 🍻🍶☕
 
 🐣  **Increasingly interested in**:
+
 - **Graph Neural Networks**
-- **FPGAs**
+- Columnar, full text, vector & graph  **database internals**
 - Optimising **compilers** 
-- Columnar, full text & graph  **database internals**
+- **FPGAs**
+
+🐣  **still interested in**:
+
+- Tooling
+- Editors & DSLs
+- Emulators
+- Multi-lingual NLP
+
 
 🐌   **Contact me by**:
 - Email (andres.datasloth [AT] gmail.com)
