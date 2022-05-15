@@ -7,7 +7,7 @@
 - **Approximate algorithms** to deal with data at scale
 - **information retrieval** problems related to **computer vision retrieval systems at scale** & **similarity retrieval systems** 
 - **Cheat detection and development** 
-- ** Prediction, Forecasting, and detection problems at scale**
+- **Prediction, Forecasting, and detection problems at scale**
 
 🦥  **I am open**:
 
