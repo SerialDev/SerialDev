@@ -3,11 +3,12 @@
 
 🦦**At work, I have/still  mainly focused on**:
 
-- **Machine Learning** at scale & low dataset machine learning systems, **anomaly detection** and, its application to security .
+- **Machine Learning** at scale, **anomaly detection** and, its application to security .
 - **Approximate algorithms** to deal with data at scale
 - **information retrieval** problems related to **computer vision retrieval systems at scale** & **similarity retrieval systems** 
 - **Cheat detection and development** 
 - **Prediction, Forecasting, and detection problems at scale**
+- **LLMs** Updates pending
 
 🦥  **I am open**:
 
