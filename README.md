@@ -5,6 +5,7 @@
 
 - **Machine Learning** at scale, **anomaly detection** and, its application to security .
 - **Approximate algorithms** to deal with data at scale
+- Vector DBs
 - **information retrieval** problems related to **computer vision retrieval systems at scale** & **similarity retrieval systems** 
 - **Cheat detection and development** 
 - **Prediction, Forecasting, and detection problems at scale**
@@ -16,21 +17,20 @@
 - Anything interesting you wanna reach out about
 - Cool **hardware** projects!
 - Music production **collabs** (includes **VST** development)
-- An informal chat or a drink 🍻🍶☕
+- An informal chat 🍻🍶☕
 
 🐣  **Increasingly interested in**:
 
 - **Graph Neural Networks**
 - Columnar, full text, vector & graph  **database internals**
 - Optimising **compilers** 
-- **FPGAs**
 
 🐣  **still interested in**:
 
 - Tooling
 - Editors & DSLs
 - Emulators
-- Multi-lingual NLP
+- Multi-lingual NLP |LLMs
 
 
 🐌   **Contact me by**:
