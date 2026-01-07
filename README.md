@@ -1,5 +1,7 @@
 ### 🐾  Have fun and feel free to reach out 🐾 
 
+Most of my libraries are fork or use as is, as I build them for myself at the moment. I will be clear on the ones that is not the case.
+
 
 🦦**At work, I have/still  mainly focused on**:
 
